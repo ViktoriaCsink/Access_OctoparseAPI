@@ -6,6 +6,7 @@ import time
 import util
 import os
 import random
+import json
 
 def refresh_token(base_url, refresh_token_id):
         """refresh the token with refresh token id
@@ -183,6 +184,7 @@ def export_not_exported_data(base_url, token, task_id):
         url = 'api/notExportData/getTop?taskId=' + task_id + '&size=10'
         task_data_result = util.request_t_get(base_url, url, token)
         util.show_task_data(task_data_result)
+        
         return task_data_result    
 
 def mark_data_as_exported(base_url, token, task_id):
@@ -345,3 +347,8 @@ def add_url_or_text_item(base_url, token, task_id, action_name, property_value):
         response = util.request_t_post(base_url, url, token, content)
         print(response['error_Description'])
         return response;
+    
+    
+    
+    
+    

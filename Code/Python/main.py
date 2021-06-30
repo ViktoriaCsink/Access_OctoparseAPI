@@ -7,6 +7,7 @@ import os
 import random
 import getpass
 import samples
+import json
 
 def log_in(base_url, username, password): 	
         """login and get a access token
@@ -49,7 +50,10 @@ def start_test(base_url, token_entity):
 
         ###=================bellow are basic apis: http://dataapi.octoparse.com/ (for China: http://dataapi.bazhuayu.com/ )====================###
         groups = samples.get_task_group(base_url, token)
-        tasks = samples.get_task_by_group_id(base_url, token, groups[1]['taskGroupId'])
+          
+        tasks = samples.get_task_by_group_id(base_url, token, groups[-1]['taskGroupId'])
+        
+        print('\n\n\n\n\n\n', groups[-1]['taskGroupName'], '\n\n\n\n\n\n')
 
         task_id = tasks[0]['taskId']
         samples.get_data_by_offset(base_url, token, task_id)
@@ -59,7 +63,7 @@ def start_test(base_url, token_entity):
         samples.mark_data_as_exported(base_url, token, task_id)
 
         ###=================bellow are advanced apis: http://advancedapi.octoparse.com/ (for China: http://advancedapi.bazhuayu.com/ )====================###
-        task_id = tasks[1]['taskId'] # bellow methods will update your task and clear your task data
+        task_id = tasks[0]['taskId'] # bellow methods will update your task and clear your task data
 
         action_name = 'navigateAction1.Url' # make sure the task has this action
         property_value = 'https://www.octoparse.com/features-tutorial?pageIndex=' + str(random.randint(1,5))
@@ -97,4 +101,13 @@ if __name__ == '__main__':
         token_entity = log_in(base_url, user_name, password)
 
         start_test(base_url, token_entity)
+        
 # End
+
+
+
+
+
+
+
+

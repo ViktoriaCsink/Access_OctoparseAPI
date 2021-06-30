@@ -1,0 +1,7 @@
+[
+    {
+        "Title": "Guidance on Proliferation Financing Risk Assessment and Mitigation (pdf, )",
+        "URL": "https://www.fatf-gafi.org/media/fatf/documents/reports/Guidance-Proliferation-Financing-Risk-Assessment-Mitigation.pdf",
+        "Date": "29 Jun 2021"
+    }
+]

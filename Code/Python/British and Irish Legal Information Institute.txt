@@ -1,0 +1,358 @@
+[
+    {
+        "Title": "ALAT v. TURKEY - 39513/11 (Judgment :  Right to a fair trial : Second Section Committee) [2021] ECHR 583 (29 June 2021)",
+        "URL": "https://www.bailii.org/eu/cases/ECHR/2021/583.html"
+    },
+    {
+        "Title": "RESIN v. RUSSIA - 9798/12 (Judgment :  Prohibition of torture : Third Section Committee) [2021] ECHR 584 (29 June 2021)",
+        "URL": "https://www.bailii.org/eu/cases/ECHR/2021/584.html"
+    },
+    {
+        "Title": "SCERBININA v. THE REPUBLIC OF MOLDOVA AND RUSSIA - 76892/14 (Judgment : No  Right to a fair trial : Second Section Committee) [2021] ECHR 587 (29 June 2021)",
+        "URL": "https://www.bailii.org/eu/cases/ECHR/2021/587.html"
+    },
+    {
+        "Title": "MIHAILOV v. THE REPUBLIC OF MOLDOVA - 53209/12 (Judgment :  Right to a fair trial : Second Section Committee) [2021] ECHR 577 (29 June 2021)",
+        "URL": "https://www.bailii.org/eu/cases/ECHR/2021/577.html"
+    },
+    {
+        "Title": "TERCAN v. TURKEY - 6158/18 (Judgment : Remainder inadmissible : Second Section) French Text [2021] ECHR 573 (29 June 2021)",
+        "URL": "https://www.bailii.org/eu/cases/ECHR/2021/573.html"
+    },
+    {
+        "Title": "BRODA AND BOJARA v. POLAND - 26691/18 (Judgment :  Right to a fair trial : First Section) French Text [2021] ECHR 574 (29 June 2021)",
+        "URL": "https://www.bailii.org/eu/cases/ECHR/2021/574.html"
+    },
+    {
+        "Title": "POJOGA v. THE REPUBLIC OF MOLDOVA - 39635/08 (Judgment : Struck out of the list : Second Section Committee) [2021] ECHR 581 (29 June 2021)",
+        "URL": "https://www.bailii.org/eu/cases/ECHR/2021/581.html"
+    },
+    {
+        "Title": "YEZHOV AND OTHERS v. RUSSIA - 22051/05 (Judgment : Remainder inadmissible : Third Section) [2021] ECHR 572 (29 June 2021)",
+        "URL": "https://www.bailii.org/eu/cases/ECHR/2021/572.html"
+    },
+    {
+        "Title": "KARAMOVY v. RUSSIA - 51952/08 (Judgment :  Right to life : Third Section Committee) [2021] ECHR 582 (29 June 2021)",
+        "URL": "https://www.bailii.org/eu/cases/ECHR/2021/582.html"
+    },
+    {
+        "Title": "Monsolar IQ v Ltd Woden Park Ltd [2021] EWCA Civ 961 (29 June 2021)",
+        "URL": "https://www.bailii.org/ew/cases/EWCA/Civ/2021/961.html"
+    },
+    {
+        "Title": "ICamera Ltd, Re (Valuation) [2021] EWHC 1762 (Ch) (29 June 2021)",
+        "URL": "https://www.bailii.org/ew/cases/EWHC/Ch/2021/1762.html"
+    },
+    {
+        "Title": "The Official Receiver  v Arron (Costs) [2021] EWHC 1775 (Ch) (29 June 2021)",
+        "URL": "https://www.bailii.org/ew/cases/EWHC/Ch/2021/1775.html"
+    },
+    {
+        "Title": "Clarke & Ors v The State (Trinidad and Tobago) [2021] UKPC 16 (28 June 2021)",
+        "URL": "https://www.bailii.org/uk/cases/UKPC/2021/16.html"
+    },
+    {
+        "Title": "Sheakh, R (On the Application Of) v London Borough of Lambeth (Rev1) [2021] EWHC 1745 (Admin) (28 June 2021)",
+        "URL": "https://www.bailii.org/ew/cases/EWHC/Admin/2021/1745.html"
+    },
+    {
+        "Title": "MONIR LOTFY v. CYPRUS - 37139/13 (Judgment :  Prohibition of torture : Third Section) [2021] ECHR 575 (29 June 2021)",
+        "URL": "https://www.bailii.org/eu/cases/ECHR/2021/575.html"
+    },
+    {
+        "Title": "MIDGARD TERRA S.A. v. THE REPUBLIC OF MOLDOVA - 41538/13 (Judgment : Struck out of the list : Second Section Committee) [2021] ECHR 579 (29 June 2021)",
+        "URL": "https://www.bailii.org/eu/cases/ECHR/2021/579.html"
+    },
+    {
+        "Title": "BADAN v. THE REPUBLIC OF MOLDOVA - 56405/12 (Judgment :  Right to a fair trial : Second Section Committee) [2021] ECHR 578 (29 June 2021)",
+        "URL": "https://www.bailii.org/eu/cases/ECHR/2021/578.html"
+    },
+    {
+        "Title": "A.O. FALUN DAFA AND OTHERS v. THE REPUBLIC OF MOLDOVA - 29458/15 (Judgment :  Freedom of thought, conscience and religion : Second Section) [2021] ECHR 576 (29 June 2021)",
+        "URL": "https://www.bailii.org/eu/cases/ECHR/2021/576.html"
+    },
+    {
+        "Title": "Tracey v District Court Judge McCarthy (Unapproved) [2021] IESC 37 (25 June 2021)",
+        "URL": "https://www.bailii.org/ie/cases/IESC/2021/2021IESC37.html"
+    },
+    {
+        "Title": "Tracey & anor v Mc Dowell & ors (Unapproved) [2021] IESC 38 (25 June 2021)",
+        "URL": "https://www.bailii.org/ie/cases/IESC/2021/2021IESC38.html"
+    },
+    {
+        "Title": "Quinn Insurance Ltd (Under Administration) v Pricewaterhousecoopers (Unapproved) [2021] IESC 39 (25 June 2021)",
+        "URL": "https://www.bailii.org/ie/cases/IESC/2021/2021IESC39.html"
+    },
+    {
+        "Title": "The Department for Communities in Northern Ireland (Freedom of movement for persons - Citizenship of the Union - Agreement on the withdrawal of the United Kingdom - Opinion) [2021] EUECJ C-709/20_O (24 June 2021)",
+        "URL": "https://www.bailii.org/eu/cases/EUECJ/2021/C70920_O.html"
+    },
+    {
+        "Title": "StWL Stadtische Werke Lauf a.d. Pegnitz (Opinion) French Text [2021] EUECJ C-102/20_O (24 June 2021)",
+        "URL": "https://www.bailii.org/eu/cases/EUECJ/2021/C10220_O.html"
+    },
+    {
+        "Title": "WD v EFSA (Judgment) French Text [2021] EUECJ C-167/20P (24 June 2021)",
+        "URL": "https://www.bailii.org/eu/cases/EUECJ/2021/C16720P.html"
+    },
+    {
+        "Title": "Aurubis (Environment - Scheme for greenhouse gas emission allowance trading - Opinion) [2021] EUECJ C-271/20_O (24 June 2021)",
+        "URL": "https://www.bailii.org/eu/cases/EUECJ/2021/C27120_O.html"
+    },
+    {
+        "Title": "Regione Puglia (Energy - Conditions for granting and using authorisations for the prospection, exploration and production of hydrocarbons - Opinion) [2021] EUECJ C-110/20_O (24 June 2021)",
+        "URL": "https://www.bailii.org/eu/cases/EUECJ/2021/C11020_O.html"
+    },
+    {
+        "Title": "Peek & Cloppenburg (Consumer protection - Promotion of sales of the media operator's and the trader's products - Opinion) [2021] EUECJ C-371/20_O (24 June 2021)",
+        "URL": "https://www.bailii.org/eu/cases/EUECJ/2021/C37120_O.html"
+    },
+    {
+        "Title": "Moore & Anor   v Secretary of State for Work and Pensions [2021] EWCA Civ 970 (23 June 2021)",
+        "URL": "https://www.bailii.org/ew/cases/EWCA/Civ/2021/970.html"
+    },
+    {
+        "Title": "Polyclear Ltd v Wezowicz & Ors  (PRACTICE AND PROCEDURE) [2021] UKEAT 183_20_2306 (23 June 2021)",
+        "URL": "https://www.bailii.org/uk/cases/UKEAT/2021/183_20_2306.html"
+    },
+    {
+        "Title": "Polynt v ECHA (REACH - Obligation to provide certain information requiring animal testing - Order) [2021] EUECJ T-207/21_CO (22 June 2021)",
+        "URL": "https://www.bailii.org/eu/cases/EUECJ/2021/T20721_CO.html"
+    },
+    {
+        "Title": "Kratky v Parliament and Others (Order) French Text [2021] EUECJ T-13/21_CO (22 June 2021)",
+        "URL": "https://www.bailii.org/eu/cases/EUECJ/2021/T1321_CO.html"
+    },
+    {
+        "Title": "Portugal v Commission (Order) French Text [2021] EUECJ T-95/21_CO (22 June 2021)",
+        "URL": "https://www.bailii.org/eu/cases/EUECJ/2021/T9521_CO.html"
+    },
+    {
+        "Title": "Kowalek v Hassanein Ltd (HOUSING - RENT REPAYMENT ORDER) [2021] UKUT 143 (LC) (18 June 2021)",
+        "URL": "https://www.bailii.org/uk/cases/UKUT/LC/2021/143.html"
+    },
+    {
+        "Title": "Smith v Goodwin (RESTRICTIVE COVENANTS - MODIFICATION - covenant preventing more than one house per plot) [2021] UKUT 145 (LC) (18 June 2021)",
+        "URL": "https://www.bailii.org/uk/cases/UKUT/LC/2021/145.html"
+    },
+    {
+        "Title": "Governor and Company of the Bank of Ireland v Matthews (Approved) [2021] IECA 176 (17 June 2021)",
+        "URL": "https://www.bailii.org/ie/cases/IECA/2021/2021IECA176.html"
+    },
+    {
+        "Title": "Zedra Trust Company (Jersey) Ltd v The Hut GroupLtd & Ors [2021] EWCA Civ 904 (15 June 2021)",
+        "URL": "https://www.bailii.org/ew/cases/EWCA/Civ/2021/904.html"
+    },
+    {
+        "Title": "Akbar, R (On the Application Of) v The Secretary of State for Justice [2021] EWCA Civ 898 (15 June 2021)",
+        "URL": "https://www.bailii.org/ew/cases/EWCA/Civ/2021/898.html"
+    },
+    {
+        "Title": "Elliott-Smith v Secretary of State for Business, Energy And Industrial Strategy & Ors [2021] EWHC 1633 (Admin) (15 June 2021)",
+        "URL": "https://www.bailii.org/ew/cases/EWHC/Admin/2021/1633.html"
+    },
+    {
+        "Title": "R (Care Proceedings Joinder of Foster Carers) [2021] EWCA Civ 875 (15 June 2021)",
+        "URL": "https://www.bailii.org/ew/cases/EWCA/Civ/2021/875.html"
+    },
+    {
+        "Title": "Bansal v Secretary of State for Housing, Communities And Local Government & Anor [2021] EWHC 1604 (Admin) (15 June 2021)",
+        "URL": "https://www.bailii.org/ew/cases/EWHC/Admin/2021/1604.html"
+    },
+    {
+        "Title": "The Manchester Ship Canal Company Ltd v United Utilities Water Ltd [2021] EWHC 1571 (Ch) (15 June 2021)",
+        "URL": "https://www.bailii.org/ew/cases/EWHC/Ch/2021/1571.html"
+    },
+    {
+        "Title": "Ramaswamy v General Medical Council [2021] EWHC 1619 (Admin) (15 June 2021)",
+        "URL": "https://www.bailii.org/ew/cases/EWHC/Admin/2021/1619.html"
+    },
+    {
+        "Title": "Equiom (Isle of Man) Ltd & Ors v Velarde & Ors [2021] EWHC 1528 (Ch) (15 June 2021)",
+        "URL": "https://www.bailii.org/ew/cases/EWHC/Ch/2021/1528.html"
+    },
+    {
+        "Title": "Qatar Financial Centre Authority v Encryptics Data Security LLC (Debt) [2021] QIC (F) 14 (10 June 2021)",
+        "URL": "https://www.bailii.org/qa/cases/QIC/2021/14_F.html"
+    },
+    {
+        "Title": "BLIZNYUK v. UKRAINE - 20789/14 (Judgment :  Right to life : Fifth Section Committee) [2021] ECHR 495 (10 June 2021)",
+        "URL": "https://www.bailii.org/eu/cases/ECHR/2021/495.html"
+    },
+    {
+        "Title": "KHIMCHAK AND BILYK v. UKRAINE - 4565/14 (Judgment :  Right to liberty and security : Fifth Section Committee) [2021] ECHR 494 (10 June 2021)",
+        "URL": "https://www.bailii.org/eu/cases/ECHR/2021/494.html"
+    },
+    {
+        "Title": "DENISYUK v. UKRAINE - 18735/19 (Judgment :  Right to a fair trial : Fifth Section Committee) [2021] ECHR 504 (10 June 2021)",
+        "URL": "https://www.bailii.org/eu/cases/ECHR/2021/504.html"
+    },
+    {
+        "Title": "KUZNETSOV AND OTHERS v. UKRAINE - 56123/19 (Judgment :  Prohibition of torture : Fifth Section Committee) [2021] ECHR 505 (10 June 2021)",
+        "URL": "https://www.bailii.org/eu/cases/ECHR/2021/505.html"
+    },
+    {
+        "Title": "KUZNETSOV AND OTHERS v. UKRAINE - 56123/19 (Judgment :  Prohibition of torture : Fifth Section Committee) [2021] ECHR 505 (10 June 2021)",
+        "URL": "https://www.bailii.org/eu/cases/ECHR/2021/505.html"
+    },
+    {
+        "Title": "GEN AND OTHERS v. UKRAINE - 41596/19 (Judgment :  Right to respect for private and family life : Fifth Section Committee) [2021] ECHR 506 (10 June 2021)",
+        "URL": "https://www.bailii.org/eu/cases/ECHR/2021/506.html"
+    },
+    {
+        "Title": "PA038682018 [2021] UKAITUR PA038682018 (10 June 2021)",
+        "URL": "https://www.bailii.org/uk/cases/UKAITUR/2021/PA038682018.html"
+    },
+    {
+        "Title": "HU185122018 & Ors. [2021] UKAITUR HU185122018 (10 June 2021)",
+        "URL": "https://www.bailii.org/uk/cases/UKAITUR/2021/HU185122018.html"
+    },
+    {
+        "Title": "FETISOV AND OTHERS v. RUSSIA - 25032/18 (Judgment :  Right to respect for private and family life : Third Section Committee) [2021] ECHR 502 (10 June 2021)",
+        "URL": "https://www.bailii.org/eu/cases/ECHR/2021/502.html"
+    },
+    {
+        "Title": "MERZLYAKOV v. RUSSIA - 12590/17 (Judgment :  Right to liberty and security : Third Section Committee) [2021] ECHR 498 (10 June 2021)",
+        "URL": "https://www.bailii.org/eu/cases/ECHR/2021/498.html"
+    },
+    {
+        "Title": "SUKHANSKIY AND OTHERS v. RUSSIA - 14125/18 (Judgment :  Right to an effective remedy : Third Section Committee) [2021] ECHR 501 (10 June 2021)",
+        "URL": "https://www.bailii.org/eu/cases/ECHR/2021/501.html"
+    },
+    {
+        "Title": "KRALJEVIC GUDELJ v. CROATIA - 42411/16 (Judgment :  Right to a fair trial : First Section Committee) [2021] ECHR 496 (10 June 2021)",
+        "URL": "https://www.bailii.org/eu/cases/ECHR/2021/496.html"
+    },
+    {
+        "Title": "KOSOUROV AND OTHERS v. RUSSIA - 60283/17 (Judgment :  Right to respect for private and family life : Third Section Committee) [2021] ECHR 500 (10 June 2021)",
+        "URL": "https://www.bailii.org/eu/cases/ECHR/2021/500.html"
+    },
+    {
+        "Title": "EA059512019 [2021] UKAITUR EA059512019 (9 June 2021)",
+        "URL": "https://www.bailii.org/uk/cases/UKAITUR/2021/EA059512019.html"
+    },
+    {
+        "Title": "DA002622018 [2021] UKAITUR DA002622018 (9 June 2021)",
+        "URL": "https://www.bailii.org/uk/cases/UKAITUR/2021/DA002622018.html"
+    },
+    {
+        "Title": "Yanukovych v Council (Common foreign and security policy - Restrictive measures taken in view of the situation in Ukraine - Judgment) [2021] EUECJ T-303/19 (09 June 2021)",
+        "URL": "https://www.bailii.org/eu/cases/EUECJ/2021/T30319.html"
+    },
+    {
+        "Title": "Iniciativa Derecho de la UE, derechos de las minorias y democratizacion de las instituciones espanolas v Commission (Judgment) French Text [2021] EUECJ T-611/19 (09 June 2021)",
+        "URL": "https://www.bailii.org/eu/cases/EUECJ/2021/T61119.html"
+    },
+    {
+        "Title": "PALFREEMAN v. BULGARIA - 840/18 (Judgment :  Prohibition of torture : Fourth Section Committee) [2021] ECHR 467 (08 June 2021)",
+        "URL": "https://www.bailii.org/eu/cases/ECHR/2021/467.html"
+    },
+    {
+        "Title": "FRISON v. RUSSIA - 57614/17 (Judgment : Right to respect for private and family life : Third Section Committee) [2021] ECHR 466 (08 June 2021)",
+        "URL": "https://www.bailii.org/eu/cases/ECHR/2021/466.html"
+    },
+    {
+        "Title": "SOTVOLDIYEV v. RUSSIA - 47636/18 (Judgment :  Right to respect for private and family life : Third Section Committee) [2021] ECHR 468 (08 June 2021)",
+        "URL": "https://www.bailii.org/eu/cases/ECHR/2021/468.html"
+    },
+    {
+        "Title": "PA141392018 [2021] UKAITUR PA141392018 (8 June 2021)",
+        "URL": "https://www.bailii.org/uk/cases/UKAITUR/2021/PA141392018.html"
+    },
+    {
+        "Title": "Axnoller Events Ltd v Brake & Anor (Costs) [2021] EWHC 1500 (Ch) (04 June 2021)",
+        "URL": "https://www.bailii.org/ew/cases/EWHC/Ch/2021/1500.html"
+    },
+    {
+        "Title": "Davey & Anor v Davey & Anor [2021] EWHC 1467 (Ch) (04 June 2021)",
+        "URL": "https://www.bailii.org/ew/cases/EWHC/Ch/2021/1467.html"
+    },
+    {
+        "Title": "Italy v Commission (Judgment) French Text [2021] EUECJ T-718/17 (02 June 2021)",
+        "URL": "https://www.bailii.org/eu/cases/EUECJ/2021/T71817.html"
+    },
+    {
+        "Title": "Casa Regina Apostolorum della Pia Societa delle Figlie di San Paolo v Commission (Judgment) French Text [2021] EUECJ T-223/18 (02 June 2021)",
+        "URL": "https://www.bailii.org/eu/cases/EUECJ/2021/T22318.html"
+    },
+    {
+        "Title": "Italy v Commission (Judgment) French Text [2021] EUECJ T-71/18 (02 June 2021)",
+        "URL": "https://www.bailii.org/eu/cases/EUECJ/2021/T7118.html"
+    },
+    {
+        "Title": "Hudman v Morris  [2021] EWHC 1400 (Ch) (01 June 2021)",
+        "URL": "https://www.bailii.org/ew/cases/EWHC/Ch/2021/1400.html"
+    },
+    {
+        "Title": "Nero Holdings Ltd v Young [2021] EWHC 1453 (Ch) (28 May 2021)",
+        "URL": "https://www.bailii.org/ew/cases/EWHC/Ch/2021/1453.html"
+    },
+    {
+        "Title": "Colliver   v Papworth & Anor [2021] EWHC 1450 (Ch) (28 May 2021)",
+        "URL": "https://www.bailii.org/ew/cases/EWHC/Ch/2021/1450.html"
+    },
+    {
+        "Title": "Burnell   v Trans-Tag Ltd & Anor [2021] EWHC 1457 (Ch) (28 May 2021)",
+        "URL": "https://www.bailii.org/ew/cases/EWHC/Ch/2021/1457.html"
+    },
+    {
+        "Title": "YC, Re [2021] EWCOP 34 (27 May 2021)",
+        "URL": "https://www.bailii.org/ew/cases/EWCOP/2021/34.html"
+    },
+    {
+        "Title": "Bernotas   v Lithuanian Judicial Authority [2021] EWHC 1410 (Admin) (27 May 2021)",
+        "URL": "https://www.bailii.org/ew/cases/EWHC/Admin/2021/1410.html"
+    },
+    {
+        "Title": "Wilson, R. v [2021] EWCA Crim 839 (27 May 2021)",
+        "URL": "https://www.bailii.org/ew/cases/EWCA/Crim/2021/839.html"
+    },
+    {
+        "Title": "BetIndex Limited 26-May-2021 [2021] JRC 151 (26 May 2021)",
+        "URL": "https://www.bailii.org/je/cases/UR/2021/2021_151.html"
+    },
+    {
+        "Title": "Stafford v Rice (Costs) (Approved) [2021] IEHC 344 (26 May 2021)",
+        "URL": "https://www.bailii.org/ie/cases/IEHC/2021/2021IEHC344.html"
+    },
+    {
+        "Title": "White v Arrabawn Co-operative Society LTD (Approved) [2021] IEHC 343 (26 May 2021)",
+        "URL": "https://www.bailii.org/ie/cases/IEHC/2021/2021IEHC343.html"
+    },
+    {
+        "Title": "Representation of Treasurer of the States re various trusts for educational purposes 26-May-2021 [2021] JRC 152 (26 May 2021)",
+        "URL": "https://www.bailii.org/je/cases/UR/2021/2021_152.html"
+    },
+    {
+        "Title": "Representation of the Velloz Settlement 26-May-2021 [2021] JRC 140 (26 May 2021)",
+        "URL": "https://www.bailii.org/je/cases/UR/2021/2021_140.html"
+    },
+    {
+        "Title": "Aviareto Ltd v Global Closing Room Ltd (Approved) [2021] IEHC 377 (26 May 2021)",
+        "URL": "https://www.bailii.org/ie/cases/IEHC/2021/2021IEHC377.html"
+    },
+    {
+        "Title": "Ihenacho   v London Borough of Croydon [2021] EWCA Crim 798 (27 May 2021)",
+        "URL": "https://www.bailii.org/ew/cases/EWCA/Crim/2021/798.html"
+    },
+    {
+        "Title": "Y v AG 26-May-2021 [2021] JRC 143 (26 May 2021)",
+        "URL": "https://www.bailii.org/je/cases/UR/2021/2021_143.html"
+    },
+    {
+        "Title": "AB v Chethams School of Music [2021] EWHC 1419 (QB) (26 May 2021)",
+        "URL": "https://www.bailii.org/ew/cases/EWHC/QB/2021/1419.html"
+    },
+    {
+        "Title": "K (Children) [2021] EWHC 1409 (Fam) (26 May 2021)",
+        "URL": "https://www.bailii.org/ew/cases/EWHC/Fam/2021/1409.html"
+    },
+    {
+        "Title": "Dana UK AXLE Ltd v Freudenberg FST GmbH [2021] EWHC 1413 (TCC) (26 May 2021)",
+        "URL": "https://www.bailii.org/ew/cases/EWHC/TCC/2021/1413.html"
+    },
+    {
+        "Title": "YXA v Wolverhampton City Council [2021] EWHC 1444 (QB) (26 May 2021)",
+        "URL": "https://www.bailii.org/ew/cases/EWHC/QB/2021/1444.html"
+    }
+]

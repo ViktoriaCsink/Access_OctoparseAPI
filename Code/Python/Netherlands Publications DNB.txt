@@ -1,0 +1,130 @@
+[
+    {
+        "Title": "Supervisory Strategy 2021",
+        "URL": "https://www.dnb.nl/media/yjdgeqoy/supervisory_strategy_2021_v2.pdf"
+    },
+    {
+        "Title": "Annual Report 2020",
+        "URL": "https://www.dnb.nl/media/djspazix/jaarverslag_2020_dnb_eng.pdf"
+    },
+    {
+        "Title": "Financial Stability Report Spring 2021",
+        "URL": "https://www.dnb.nl/media/1rffwrme/financial_stability_report_spring_2021.pdf"
+    },
+    {
+        "Title": "Annex 1\u2002Climate-related Financial Disclosure",
+        "URL": "https://www.dnb.nl/media/geubhers/web_131565_jvsl_eng_h4-verantwoording.pdf"
+    },
+    {
+        "Title": "Financial Stability Report - spring 2019",
+        "URL": "https://www.dnb.nl/media/b2el2am4/fsr-spring-19.pdf"
+    },
+    {
+        "Title": "Economic Developments and Outlook \u2013 December 2020",
+        "URL": "https://www.dnb.nl/media/24bdgth3/eov_december_2020_uk.pdf"
+    },
+    {
+        "Title": "Annual report DNB 2018",
+        "URL": "https://www.dnb.nl/media/z4rdhnzf/2018-anual-report.pdf"
+    },
+    {
+        "Title": "Financial Stability Report - autumn 2020",
+        "URL": "https://www.dnb.nl/media/i2nnyqka/fsr-autumn_2020.pdf"
+    },
+    {
+        "Title": "Economic Developments and Outlook - June 2019",
+        "URL": "https://www.dnb.nl/media/azean4eg/edo-june-2019.pdf"
+    },
+    {
+        "Title": "Financial Stability Report - autumn 2019",
+        "URL": "https://www.dnb.nl/media/41xhemfo/financial_stability_report_autumn_2019.pdf"
+    },
+    {
+        "Title": "Annual report DNB 2016",
+        "URL": "https://www.dnb.nl/media/vxum0etl/2016-anual-report.pdf"
+    },
+    {
+        "Title": "Financial Stability Report - spring 2017",
+        "URL": "https://www.dnb.nl/media/suvds05o/ofs-spring-2017_eng_web_tcm47-359766.pdf"
+    },
+    {
+        "Title": "Financial Stability Report - autumn 2018",
+        "URL": "https://www.dnb.nl/media/wzgl3pda/fsr-autumn-2018.pdf"
+    },
+    {
+        "Title": "Economic Developments and Outlook - June 2017",
+        "URL": "https://www.dnb.nl/media/5zbp1pe4/edo-juni-2017.pdf"
+    },
+    {
+        "Title": "Economic Developments and Outlook \u2013 December 2018",
+        "URL": "https://www.dnb.nl/media/slzjf5mf/edo-december-2018.pdf"
+    },
+    {
+        "Title": "Financial Stability Report - autumn 2017",
+        "URL": "https://www.dnb.nl/media/xindozo2/fsc_autumn_2015.pdf"
+    },
+    {
+        "Title": "Financial Stability Report - autumn 2016",
+        "URL": "https://www.dnb.nl/media/sy3iqxh3/ofs_autumn-2016.pdf"
+    },
+    {
+        "Title": "Financial Stability Report - autumn 2015",
+        "URL": "https://www.dnb.nl/media/jhhf5dro/ofs-autumn-2015.pdf"
+    },
+    {
+        "Title": "Economic Developments and Outlook \u2013 January 2017",
+        "URL": "https://www.dnb.nl/media/d1xhh3on/edo-january-2017.pdf"
+    },
+    {
+        "Title": "Economic Developments and Outlook - June 2015",
+        "URL": "https://www.dnb.nl/media/lbuczhp2/edo-june-2015.pdf"
+    },
+    {
+        "Title": "Financial Stability Report - spring 2020",
+        "URL": "https://www.dnb.nl/media/4zapljbb/fsr-spring-2020.pdf"
+    },
+    {
+        "Title": "Economic Developments and Outlook - June 2020",
+        "URL": "https://www.dnb.nl/media/rxujxcg0/edo-june-2020.pdf"
+    },
+    {
+        "Title": "Economic Developments and Outlook - June 2018",
+        "URL": "https://www.dnb.nl/media/u2vhvijx/edo-june-2018.pdf"
+    },
+    {
+        "Title": "Annual report DNB 2019",
+        "URL": "https://www.dnb.nl/media/m5eiczhm/2019-anual-report.pdf"
+    },
+    {
+        "Title": "Economic Developments and Outlook \u2013 December 2019",
+        "URL": "https://www.dnb.nl/media/mrdbq3xu/edo-december-2019.pdf"
+    },
+    {
+        "Title": "Economic Developments and Outlook - June 2016",
+        "URL": "https://www.dnb.nl/media/oatbsyg0/edo-june-2016.pdf"
+    },
+    {
+        "Title": "Financial Stability Report - spring 2018",
+        "URL": "https://www.dnb.nl/media/boxnq1lg/fsr-spring-18.pdf"
+    },
+    {
+        "Title": "Economic Developments and Outlook \u2013 December 2017",
+        "URL": "https://www.dnb.nl/media/t5wixxzh/edo-december-2017.pdf"
+    },
+    {
+        "Title": "Annual report DNB 2017",
+        "URL": "https://www.dnb.nl/media/a5tjuu30/2017-anual-report.pdf"
+    },
+    {
+        "Title": "Economic Developments and Outlook \u2013 December 2015",
+        "URL": "https://www.dnb.nl/media/pgfcm0l5/edo-december-2015.pdf"
+    },
+    {
+        "Title": "Financial Stability Report - spring 2016",
+        "URL": "https://www.dnb.nl/media/mjldarsb/ofs_spring_2016.pdf"
+    },
+    {
+        "Title": "Annual report DNB 2015",
+        "URL": "https://www.dnb.nl/media/ja2fdpec/2015-anual-report.pdf"
+    }
+]

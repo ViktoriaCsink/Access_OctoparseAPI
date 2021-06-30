@@ -1,0 +1,332 @@
+[
+    {
+        "Title": "Consultation Paper on Revisions to the Guidelines on Corporate Governance",
+        "Date": "\n                    07 May 2021\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2021-Consultation-for-Corporate-Governance/Consultation-Paper-on-Revisions-to-the-Guidelines-on-Corporate-Governance-7-May-2021.pdf"
+    },
+    {
+        "Title": "Consultation Paper on Proposed AML Notices for Cross-Border Business Arrangements of Capital Markets Intermediaries under Proposed Exemption Frameworks",
+        "Date": "\n                    12 May 2021\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2021-05-Consultation-Paper-P005-2021/CP-on-Proposed-AML-Notices-for-CrossBorder-Business-Arrangements-of-CMIs-under-Proposed-Exemption-Fr.pdf"
+    },
+    {
+        "Title": "Consultation Paper on Proposed AML Notices for Cross-Border Business Arrangements of Capital Markets Intermediaries under Proposed Exemption Frameworks",
+        "Date": "\n                    12 May 2021\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2021-05-Consultation-Paper-P005-2021/Annex-A1-to-A4-Consolidated.zip"
+    },
+    {
+        "Title": "Consultation Paper on Proposed AML Notices for Cross-Border Business Arrangements of Capital Markets Intermediaries under Proposed Exemption Frameworks",
+        "Date": "\n                    12 May 2021\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2021-05-Consultation-Paper-P005-2021/Annex-A1--Draft-SFA-AML-Notice-FRC.pdf"
+    },
+    {
+        "Title": "Consultation Paper on Proposed AML Notices for Cross-Border Business Arrangements of Capital Markets Intermediaries under Proposed Exemption Frameworks",
+        "Date": "\n                    12 May 2021\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2021-05-Consultation-Paper-P005-2021/Annex-A2--Draft-FAA-AML-Notice-FRC.pdf"
+    },
+    {
+        "Title": "Consultation Paper on Proposed AML Notices for Cross-Border Business Arrangements of Capital Markets Intermediaries under Proposed Exemption Frameworks",
+        "Date": "\n                    12 May 2021\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2021-05-Consultation-Paper-P005-2021/Annex-A3--Draft-SFA-AML-Notice-Branch.pdf"
+    },
+    {
+        "Title": "Consultation Paper on Proposed AML Notices for Cross-Border Business Arrangements of Capital Markets Intermediaries under Proposed Exemption Frameworks",
+        "Date": "\n                    12 May 2021\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2021-05-Consultation-Paper-P005-2021/Annex-A4--Draft-FAA-AML-Notice-Branch.pdf"
+    },
+    {
+        "Title": "Consultation Paper on Proposed AML Notices for Cross-Border Business Arrangements of Capital Markets Intermediaries under Proposed Exemption Frameworks",
+        "Date": "\n                    12 May 2021\n                ",
+        "URL": "https://www.mas.gov.sg/contact-us"
+    },
+    {
+        "Title": "Consultation Paper on Proposed AML Notices for Cross-Border Business Arrangements of Capital Markets Intermediaries under Proposed Exemption Frameworks",
+        "Date": "\n                    12 May 2021\n                ",
+        "URL": "https://www.hotjar.com/feedback-polls?utm_source=client&utm_medium=poll&utm_campaign=insights"
+    },
+    {
+        "Title": "A Multi-Country Quarterly Projection Model for MAS",
+        "Date": "",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/EPG/MR/2021/Apr/MRApr21_SF_B.pdf"
+    },
+    {
+        "Title": "Information Paper: Good Practices Relating to Disciplinary Action Framework in the Financial Advisory Industry",
+        "Date": "",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Publications/Disciplinary-Action-Framework_Info-Paper.pdf"
+    },
+    {
+        "Title": "Macroeconomic Review Volume XX Issue 1, Apr 2021",
+        "Date": "",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/EPG/MR/2021/Apr/MRApr21.pdf"
+    },
+    {
+        "Title": "Macroeconomic Review Volume XX Issue 1, Apr 2021",
+        "Date": "",
+        "URL": "https://www.mas.gov.sg/contact-us"
+    },
+    {
+        "Title": "Macroeconomic Review Volume XX Issue 1, Apr 2021",
+        "Date": "",
+        "URL": "https://www.hotjar.com/feedback-polls?utm_source=client&utm_medium=poll&utm_campaign=insights"
+    },
+    {
+        "Title": "Consultation Paper on Draft Standards for Credit Risk Capital and Output Floor Requirements for Singapore-incorporated Banks",
+        "Date": "\n                    25 March 2021\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/Consultation-Paper-on-Draft-Standards-for-Credit-Risk-Capital-and-Output-Floor-Requirements.pdf"
+    },
+    {
+        "Title": "Consultation Paper on Draft Standards for Credit Risk Capital and Output Floor Requirements for Singapore-incorporated Banks",
+        "Date": "\n                    25 March 2021\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/Template-for-Response-to-Consultation-Paper-P003-2021.docx"
+    },
+    {
+        "Title": "Consultation Paper on Proposed Exemption Framework for Cross-Border Business Arrangements of Capital Markets Intermediaries Involving Foreign Offices",
+        "Date": "\n                    15 March 2021\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2021-03-Consultation-Paper-P001-2021/CP-on-proposed-exemption-framework-for-cross-border-biz-of-CMIs-involving-foreign-offices.PDF"
+    },
+    {
+        "Title": "Consultation Paper on Proposed Exemption Framework for Cross-Border Business Arrangements of Capital Markets Intermediaries Involving Foreign Offices",
+        "Date": "\n                    15 March 2021\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2021-03-Consultation-Paper-P001-2021/Annexes-A1-to-D-Consolidated.zip"
+    },
+    {
+        "Title": "Consultation Paper on Proposed Exemption Framework for Cross-Border Business Arrangements of Capital Markets Intermediaries Involving Foreign Offices",
+        "Date": "\n                    15 March 2021\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2021-03-Consultation-Paper-P001-2021/Annex-A1-Draft-Notice-of-Commencement-of-Cross-Border-Arrangements-Form.pdf"
+    },
+    {
+        "Title": "Consultation Paper on Draft Standards for Credit Risk Capital and Output Floor Requirements for Singapore-incorporated Banks",
+        "Date": "\n                    25 March 2021\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/Proposed-Reporting-Schedules_Credit-Risk-Capital-Capital-Ratio-and-Buffers-and-Output-Floor-Reqs.xlsx"
+    },
+    {
+        "Title": "Consultation Paper on Proposed Exemption Framework for Cross-Border Business Arrangements of Capital Markets Intermediaries Involving Foreign Offices",
+        "Date": "\n                    15 March 2021\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2021-03-Consultation-Paper-P001-2021/Annex-A2-Draft-Notice-of-Change-in-Particulars-to-Cross-Border-Arrangements-Form.pdf"
+    },
+    {
+        "Title": "Consultation Paper on Proposed Exemption Framework for Cross-Border Business Arrangements of Capital Markets Intermediaries Involving Foreign Offices",
+        "Date": "\n                    15 March 2021\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2021-03-Consultation-Paper-P001-2021/Annex-A3-Draft-Annual-Declaration-for-Cross-Border-Arrangements-Form.pdf"
+    },
+    {
+        "Title": "Consultation Paper on Proposed Exemption Framework for Cross-Border Business Arrangements of Capital Markets Intermediaries Involving Foreign Offices",
+        "Date": "\n                    15 March 2021\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2021-03-Consultation-Paper-P001-2021/Annex-B1-Draft-Securities-and-Futures-Exemption-from-Requirements-CrossBorder-Arrangements-Foreign-R.pdf"
+    },
+    {
+        "Title": "Consultation Paper on Proposed Exemption Framework for Cross-Border Business Arrangements of Capital Markets Intermediaries Involving Foreign Offices",
+        "Date": "\n                    15 March 2021\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2021-03-Consultation-Paper-P001-2021/Annex-B2-Draft-Financial-Advisers-Exemption-from-Requirements-CrossBorder-Arrangements-Foreign-Relat.pdf"
+    },
+    {
+        "Title": "Consultation Paper on Proposed Exemption Framework for Cross-Border Business Arrangements of Capital Markets Intermediaries Involving Foreign Offices",
+        "Date": "\n                    15 March 2021\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2021-03-Consultation-Paper-P001-2021/Annex-B3-Draft-Notice-on-Requirements-in-relation-to-CrossBorder-Arrangements-under-the-SFECBAFRCR.pdf"
+    },
+    {
+        "Title": "Consultation Paper on Proposed Exemption Framework for Cross-Border Business Arrangements of Capital Markets Intermediaries Involving Foreign Offices",
+        "Date": "\n                    15 March 2021\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2021-03-Consultation-Paper-P001-2021/Annex-B4-Draft-Notice-on-Requirements-in-relation-to-CrossBorder-Arrangements-under-the-FAECBAFRCR.pdf"
+    },
+    {
+        "Title": "Consultation Paper on Proposed Exemption Framework for Cross-Border Business Arrangements of Capital Markets Intermediaries Involving Foreign Offices",
+        "Date": "\n                    15 March 2021\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2021-03-Consultation-Paper-P001-2021/Annex-C1-Draft-Securities-and-Futures-Exemption-from-Requirements-CrossBorder-Arrangements-Foreign-O.pdf"
+    },
+    {
+        "Title": "Consultation Paper on Proposed Exemption Framework for Cross-Border Business Arrangements of Capital Markets Intermediaries Involving Foreign Offices",
+        "Date": "\n                    15 March 2021\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2021-03-Consultation-Paper-P001-2021/Annex-C2-Draft-Financial-Advisers-Exemption-from-Requirements-CrossBorder-Arrangements-Foreign-Offic.pdf"
+    },
+    {
+        "Title": "Consultation Paper on Proposed Exemption Framework for Cross-Border Business Arrangements of Capital Markets Intermediaries Involving Foreign Offices",
+        "Date": "\n                    15 March 2021\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2021-03-Consultation-Paper-P001-2021/Annex-C3-Draft-Notice-on-Requirements-in-relation-to-CrossBorder-Arrangements-under-the-SFECBAFOR.pdf"
+    },
+    {
+        "Title": "Consultation Paper on Proposed Exemption Framework for Cross-Border Business Arrangements of Capital Markets Intermediaries Involving Foreign Offices",
+        "Date": "\n                    15 March 2021\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2021-03-Consultation-Paper-P001-2021/Annex-C4-Draft-Notice-on-Requirements-in-relation-to-CrossBorder-Arrangements-under-the-FAECBAFOR.pdf"
+    },
+    {
+        "Title": "Consultation Paper on Proposed Exemption Framework for Cross-Border Business Arrangements of Capital Markets Intermediaries Involving Foreign Offices",
+        "Date": "\n                    15 March 2021\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2021-03-Consultation-Paper-P001-2021/Annex-D-Draft-Amendments-to-Regulation-32C-of-the-Financial-Advisers-Regulations.pdf"
+    },
+    {
+        "Title": "Consultation Paper on Proposed Exemption Framework for Cross-Border Business Arrangements of Capital Markets Intermediaries Involving Foreign Offices",
+        "Date": "\n                    15 March 2021\n                ",
+        "URL": "https://www.mas.gov.sg/contact-us"
+    },
+    {
+        "Title": "Consultation Paper on Proposed Exemption Framework for Cross-Border Business Arrangements of Capital Markets Intermediaries Involving Foreign Offices",
+        "Date": "\n                    15 March 2021\n                ",
+        "URL": "https://www.hotjar.com/feedback-polls?utm_source=client&utm_medium=poll&utm_campaign=insights"
+    },
+    {
+        "Title": "February 2021 FATF Statement",
+        "Date": "",
+        "URL": ""
+    },
+    {
+        "Title": "Consultation Paper on Proposals to Mandate Reference Checks",
+        "Date": "\n                    14 May 2021\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2021-Mandate-Reference-Checks/Consultation-on-Proposals-to-Mandate-Reference-Checks.pdf"
+    },
+    {
+        "Title": "Consultation Paper on Proposed Amendments to Regulations, Notices and Guidelines Arising from the Banking (Amendment) Act 2020 and Other Changes",
+        "Date": "\n                    02 December 2020\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2020-November-Consultation-on-BAA-2020-Subsidiary-Legislation/Proposed-Amendments-to-Regulations-Notices-and-Guidelines-Arising-from-the-Banking-Amendment-Act-202.pdf"
+    },
+    {
+        "Title": "Consultation Paper on Proposed Amendments to Regulations, Notices and Guidelines Arising from the Banking (Amendment) Act 2020 and Other Changes",
+        "Date": "\n                    02 December 2020\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2020-November-Consultation-on-BAA-2020-Subsidiary-Legislation/A1-Banking-Regulations.pdf"
+    },
+    {
+        "Title": "Consultation Paper on Proposed Amendments to Regulations, Notices and Guidelines Arising from the Banking (Amendment) Act 2020 and Other Changes",
+        "Date": "\n                    02 December 2020\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2020-November-Consultation-on-BAA-2020-Subsidiary-Legislation/A2-Banking-Merchant-Banks-Regulations.pdf"
+    },
+    {
+        "Title": "Consultation Paper on Proposed Amendments to Regulations, Notices and Guidelines Arising from the Banking (Amendment) Act 2020 and Other Changes",
+        "Date": "\n                    02 December 2020\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2020-November-Consultation-on-BAA-2020-Subsidiary-Legislation/A3-Banking-Fees-Notification.pdf"
+    },
+    {
+        "Title": "Consultation Paper on Proposed Amendments to Regulations, Notices and Guidelines Arising from the Banking (Amendment) Act 2020 and Other Changes",
+        "Date": "\n                    02 December 2020\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2020-November-Consultation-on-BAA-2020-Subsidiary-Legislation/A4-Trust-Companies-Regulations.pdf"
+    },
+    {
+        "Title": "Consultation Paper on Proposed Amendments to Regulations, Notices and Guidelines Arising from the Banking (Amendment) Act 2020 and Other Changes",
+        "Date": "\n                    02 December 2020\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2020-November-Consultation-on-BAA-2020-Subsidiary-Legislation/A5-MAS-Notice-630.pdf"
+    },
+    {
+        "Title": "Consultation Paper on Proposed Amendments to Regulations, Notices and Guidelines Arising from the Banking (Amendment) Act 2020 and Other Changes",
+        "Date": "\n                    02 December 2020\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2020-November-Consultation-on-BAA-2020-Subsidiary-Legislation/A6-MAS-Notice-631.pdf"
+    },
+    {
+        "Title": "Consultation Paper on Proposed Amendments to Regulations, Notices and Guidelines Arising from the Banking (Amendment) Act 2020 and Other Changes",
+        "Date": "\n                    02 December 2020\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2020-November-Consultation-on-BAA-2020-Subsidiary-Legislation/A7-MAS-Notice-1001.pdf"
+    },
+    {
+        "Title": "Consultation Paper on Proposed Amendments to Regulations, Notices and Guidelines Arising from the Banking (Amendment) Act 2020 and Other Changes",
+        "Date": "\n                    02 December 2020\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2020-November-Consultation-on-BAA-2020-Subsidiary-Legislation/A8-MAS-Notice-1002.pdf"
+    },
+    {
+        "Title": "FSDF Annual Report 2020/2021",
+        "Date": "",
+        "URL": ""
+    },
+    {
+        "Title": "Consultation Paper on Proposed Amendments to Regulations, Notices and Guidelines Arising from the Banking (Amendment) Act 2020 and Other Changes",
+        "Date": "\n                    02 December 2020\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2020-November-Consultation-on-BAA-2020-Subsidiary-Legislation/A9-MAS-Notice-1004.pdf"
+    },
+    {
+        "Title": "Consultation Paper on Proposed Amendments to Regulations, Notices and Guidelines Arising from the Banking (Amendment) Act 2020 and Other Changes",
+        "Date": "\n                    02 December 2020\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2020-November-Consultation-on-BAA-2020-Subsidiary-Legislation/A10-MAS-Notice-1007.pdf"
+    },
+    {
+        "Title": "Consultation Paper on Proposed Amendments to Regulations, Notices and Guidelines Arising from the Banking (Amendment) Act 2020 and Other Changes",
+        "Date": "\n                    02 December 2020\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2020-November-Consultation-on-BAA-2020-Subsidiary-Legislation/A11-MAS-Notice-1012.pdf"
+    },
+    {
+        "Title": "Consultation Paper on Enhancing Pre and Post-Transaction Safeguards for Retail Clients",
+        "Date": "\n                    22 June 2021\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Paper-on-Enhancing-Pre-and-Post-Transaction-Safeguards-for-Retail-Clients.pdf"
+    },
+    {
+        "Title": "Consultation Paper on Proposed Amendments to Regulations, Notices and Guidelines Arising from the Banking (Amendment) Act 2020 and Other Changes",
+        "Date": "\n                    02 December 2020\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2020-November-Consultation-on-BAA-2020-Subsidiary-Legislation/A12-MAS-Notice-1015.pdf"
+    },
+    {
+        "Title": "Consultation Paper on Proposed Amendments to Regulations, Notices and Guidelines Arising from the Banking (Amendment) Act 2020 and Other Changes",
+        "Date": "\n                    02 December 2020\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2020-November-Consultation-on-BAA-2020-Subsidiary-Legislation/A13-MAS-Notice-1102.pdf"
+    },
+    {
+        "Title": "Annual Report 2020/2021",
+        "Date": "",
+        "URL": ""
+    },
+    {
+        "Title": "Consultation Paper on Proposed Amendments to Regulations, Notices and Guidelines Arising from the Banking (Amendment) Act 2020 and Other Changes",
+        "Date": "\n                    02 December 2020\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2020-November-Consultation-on-BAA-2020-Subsidiary-Legislation/A14-MAS-Notice-1107.pdf"
+    },
+    {
+        "Title": "Consultation Paper on Proposed Amendments to Regulations, Notices and Guidelines Arising from the Banking (Amendment) Act 2020 and Other Changes",
+        "Date": "\n                    02 December 2020\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2020-November-Consultation-on-BAA-2020-Subsidiary-Legislation/A15-MAS-Notice-1109.pdf"
+    },
+    {
+        "Title": "Consultation Paper on Proposed Amendments to Regulations, Notices and Guidelines Arising from the Banking (Amendment) Act 2020 and Other Changes",
+        "Date": "\n                    02 December 2020\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2020-November-Consultation-on-BAA-2020-Subsidiary-Legislation/A16-MAS-Notice-1110.pdf"
+    },
+    {
+        "Title": "Consultation Paper on Proposed Amendments to Regulations, Notices and Guidelines Arising from the Banking (Amendment) Act 2020 and Other Changes",
+        "Date": "\n                    02 December 2020\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2020-November-Consultation-on-BAA-2020-Subsidiary-Legislation/A17A-MAS-Notice-1111-Reporting-Schedules.xlsx"
+    },
+    {
+        "Title": "Consultation Paper on Proposed Amendments to Regulations, Notices and Guidelines Arising from the Banking (Amendment) Act 2020 and Other Changes",
+        "Date": "\n                    02 December 2020\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2020-November-Consultation-on-BAA-2020-Subsidiary-Legislation/A17-MAS-Notice-1111.pdf"
+    },
+    {
+        "Title": "Sustainability Report 2020/2021",
+        "Date": "",
+        "URL": ""
+    },
+    {
+        "Title": "Consultation Paper on Proposed Amendments to Regulations, Notices and Guidelines Arising from the Banking (Amendment) Act 2020 and Other Changes",
+        "Date": "\n                    02 December 2020\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2020-November-Consultation-on-BAA-2020-Subsidiary-Legislation/A18-MAS-Notice-XX-630-for-MBs.pdf"
+    },
+    {
+        "Title": "Consultation Paper on Proposed Amendments to Regulations, Notices and Guidelines Arising from the Banking (Amendment) Act 2020 and Other Changes",
+        "Date": "\n                    02 December 2020\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2020-November-Consultation-on-BAA-2020-Subsidiary-Legislation/A19-MAS-Notice-XX-631-for-MBs.pdf"
+    },
+    {
+        "Title": "Consultation Paper on Proposed Amendments to Regulations, Notices and Guidelines Arising from the Banking (Amendment) Act 2020 and Other Changes",
+        "Date": "\n                    02 December 2020\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2020-November-Consultation-on-BAA-2020-Subsidiary-Legislation/A20-MAS-Notice-XX--Privacy-of-Customer-Information--Conditions-for-Disclosure-of-Customer-Informatio.pdf"
+    },
+    {
+        "Title": "Consultation Paper on Proposed Amendments to Regulations, Notices and Guidelines Arising from the Banking (Amendment) Act 2020 and Other Changes",
+        "Date": "\n                    02 December 2020\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2020-November-Consultation-on-BAA-2020-Subsidiary-Legislation/A21-MAS-Notice-XX-641-for-MBs.pdf"
+    },
+    {
+        "Title": "Consultation Paper on Proposed Amendments to Regulations, Notices and Guidelines Arising from the Banking (Amendment) Act 2020 and Other Changes",
+        "Date": "\n                    02 December 2020\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2020-November-Consultation-on-BAA-2020-Subsidiary-Legislation/A22-Guidelines-on-Definition-of-a-Deposit.pdf"
+    },
+    {
+        "Title": "Consultation Paper on Proposed Amendments to Regulations, Notices and Guidelines Arising from the Banking (Amendment) Act 2020 and Other Changes",
+        "Date": "\n                    02 December 2020\n                ",
+        "URL": "https://www.mas.gov.sg/contact-us"
+    },
+    {
+        "Title": "Consultation Paper on Proposed Amendments to Regulations, Notices and Guidelines Arising from the Banking (Amendment) Act 2020 and Other Changes",
+        "Date": "\n                    02 December 2020\n                ",
+        "URL": "https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2020-November-Consultation-on-BAA-2020-Subsidiary-Legislation/Template-for-Response-to-Consultation-Paper.docx"
+    },
+    {
+        "Title": "Consultation Paper on Proposed Amendments to Regulations, Notices and Guidelines Arising from the Banking (Amendment) Act 2020 and Other Changes",
+        "Date": "\n                    02 December 2020\n                ",
+        "URL": "https://www.hotjar.com/feedback-surveys?utm_source=client&utm_medium=poll&utm_campaign=insights"
+    }
+]
